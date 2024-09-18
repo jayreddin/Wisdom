@@ -1,0 +1,21 @@
+.buttons button {
+  padding: 10px 20px;
+  margin: 5px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.contentFrame {
+  width: auto;
+  height: auto;
+  margin: 20px auto;
+  border: 1px solid #050505;
+  
+}
+.iframe-container {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
